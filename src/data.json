@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "Question1":"Senior Management gives me a clear picture of where the company is heading?"
+    },
+    {
+        "id": 2,
+        "Question2":"I am happy with the directions that I get from Senior Management"
+    },
+    {
+        "id": 3,
+        "Question3":"Senior Management has clearly explained company's mission and vision"
+    },
+    {
+        "id": 4,
+        "Question4":"Senior Management treats me with respect"
+    },
+    {
+        "id": 5,
+        "Question5":"Senior Management is always ready to invest in my continuous education"
+    },
+    {
+        "id": 6,
+        "Question6":"I feel like I can be open with Senior Management"
+    },
+    {
+        "id": 7,
+        "Question7":"Senior Management gives me constructive feedback"
+    }
+    ,
+    {
+        "id": 8,
+        "Question8":"Senior Management has clearly explained company's mission and vision"
+    },
+    {
+        "id": 9,
+        "Question9":"Senior Management is understanding about my needs"
+    },
+    {
+        "id": 10,
+        "Question10":"Senior Management gives their best to provide what I need to perform successfully"
+    }
+]

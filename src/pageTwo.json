@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "Question1":"How do you rate your C programming skills?"
+    },
+    {
+        "id": 2,
+        "Question2":"How do you rate your Java programming skills?"
+    },
+    {
+        "id": 3,
+        "Question3":"How do you rate your PHP programming skills?"
+    },
+    {
+        "id": 4,
+        "Question4":"How do you rate your JavaScript programming skills?"
+    },
+    {
+        "id": 5,
+        "Question5":"How do you rate your DBMS skills?"
+    },
+    {
+        "id": 6,
+        "Question6":"How do you rate your C++ programming skills?"
+    },
+    {
+        "id": 7,
+        "Question7":"How do you rate your Kotlin programming skills?"
+    }
+    ,
+    {
+        "id": 8,
+        "Question8":"How do you rate your Dart programming skills?"
+    },
+    {
+        "id": 9,
+        "Question9":"How do you rate your Ruby programming skills?"
+    },
+    {
+        "id": 10,
+        "Question10":"How do you rate your Web Development skills?"
+    }
+]

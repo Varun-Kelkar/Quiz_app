@@ -1,0 +1,52 @@
+[
+    {
+    "id": 1,
+    "Question1":"I have asked for an education or training that would help me do my job better?"
+} 
+,
+{
+    "id": 2,
+    "Question2":"Every time when I ask for training, I get it?"
+},
+{
+    "id": 3,
+    "Question3":"I have all the tools that I need to do my job successfully?"
+},
+{
+    "id": 4,
+    "Question4":"I always get constructive feedback about my work?"
+},
+{
+    "id": 5,
+    "Question5":"I always know when changes, that affect my job, are conducted?"
+},
+{
+    "id": 6,
+    "Question6":"I think my work is appreciated?"
+},
+{
+    "id": 7,
+    "Question7":"I think I get the right amount of money and benefits for the work I do?"
+}
+,
+{
+    "id": 8,
+    "Question8":"I think the company, cares about me as an employee?"
+},
+{
+    "id": 9,
+    "Question9":"I think i have correct attitude to work in company?"
+},
+{
+    "id": 10,
+    "Question10":"I think i can handle pressure situations?"
+}
+]
+
+
+
+
+
+
+
+
